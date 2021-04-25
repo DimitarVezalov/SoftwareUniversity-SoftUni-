@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\netcoreapp3.1\NeedForSpeed3.exe
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\netcoreapp3.1\NeedForSpeed3.deps.json
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\netcoreapp3.1\NeedForSpeed3.runtimeconfig.json
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\netcoreapp3.1\NeedForSpeed3.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\netcoreapp3.1\NeedForSpeed3.dll
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\bin\Debug\netcoreapp3.1\NeedForSpeed3.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\netcoreapp3.1\NeedForSpeed3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\netcoreapp3.1\NeedForSpeed3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\netcoreapp3.1\NeedForSpeed3.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\netcoreapp3.1\NeedForSpeed3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\netcoreapp3.1\NeedForSpeed3.dll
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\netcoreapp3.1\NeedForSpeed3.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\NeedForSpeed3\obj\Debug\netcoreapp3.1\NeedForSpeed3.genruntimeconfig.cache

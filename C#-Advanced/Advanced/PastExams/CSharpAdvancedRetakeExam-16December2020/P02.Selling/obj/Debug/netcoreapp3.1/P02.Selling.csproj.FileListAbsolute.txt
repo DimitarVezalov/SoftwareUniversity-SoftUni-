@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\bin\Debug\netcoreapp3.1\P02.Selling.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\bin\Debug\netcoreapp3.1\P02.Selling.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\bin\Debug\netcoreapp3.1\P02.Selling.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\bin\Debug\netcoreapp3.1\P02.Selling.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\bin\Debug\netcoreapp3.1\P02.Selling.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\bin\Debug\netcoreapp3.1\P02.Selling.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\obj\Debug\netcoreapp3.1\P02.Selling.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\obj\Debug\netcoreapp3.1\P02.Selling.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\obj\Debug\netcoreapp3.1\P02.Selling.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\obj\Debug\netcoreapp3.1\P02.Selling.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\obj\Debug\netcoreapp3.1\P02.Selling.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\obj\Debug\netcoreapp3.1\P02.Selling.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P02.Selling\obj\Debug\netcoreapp3.1\P02.Selling.genruntimeconfig.cache

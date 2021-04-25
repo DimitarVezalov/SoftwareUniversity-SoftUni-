@@ -1,0 +1,13 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\bin\Debug\netcoreapp3.1\WarCroft.exe
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\bin\Debug\netcoreapp3.1\WarCroft.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\bin\Debug\netcoreapp3.1\WarCroft.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\obj\Debug\netcoreapp3.1\WarCroft.csprojAssemblyReference.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\obj\Debug\netcoreapp3.1\WarCroft.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\obj\Debug\netcoreapp3.1\WarCroft.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\WarCroftApp\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache

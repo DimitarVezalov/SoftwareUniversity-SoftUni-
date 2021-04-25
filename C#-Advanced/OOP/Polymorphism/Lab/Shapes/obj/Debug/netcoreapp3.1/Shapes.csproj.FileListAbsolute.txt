@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

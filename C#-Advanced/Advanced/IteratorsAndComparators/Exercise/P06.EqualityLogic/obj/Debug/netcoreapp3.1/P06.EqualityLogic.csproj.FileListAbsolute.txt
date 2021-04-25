@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\bin\Debug\netcoreapp3.1\P06.EqualityLogic.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P06.EqualityLogic\obj\Debug\netcoreapp3.1\P06.EqualityLogic.genruntimeconfig.cache

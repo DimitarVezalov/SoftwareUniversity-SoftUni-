@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.genruntimeconfig.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P06.GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\P06.GenericCountMethodDoubles.csprojAssemblyReference.cache

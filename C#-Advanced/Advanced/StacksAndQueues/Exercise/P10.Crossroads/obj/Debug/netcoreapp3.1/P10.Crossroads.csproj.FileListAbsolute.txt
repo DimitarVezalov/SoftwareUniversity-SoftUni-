@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\obj\Debug\netcoreapp3.1\P10.Crossroads.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\obj\Debug\netcoreapp3.1\P10.Crossroads.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\obj\Debug\netcoreapp3.1\P10.Crossroads.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\obj\Debug\netcoreapp3.1\P10.Crossroads.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\bin\Debug\netcoreapp3.1\P10.Crossroads.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\bin\Debug\netcoreapp3.1\P10.Crossroads.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\bin\Debug\netcoreapp3.1\P10.Crossroads.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\bin\Debug\netcoreapp3.1\P10.Crossroads.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\bin\Debug\netcoreapp3.1\P10.Crossroads.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\bin\Debug\netcoreapp3.1\P10.Crossroads.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\obj\Debug\netcoreapp3.1\P10.Crossroads.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\obj\Debug\netcoreapp3.1\P10.Crossroads.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P10.Crossroads\obj\Debug\netcoreapp3.1\P10.Crossroads.genruntimeconfig.cache

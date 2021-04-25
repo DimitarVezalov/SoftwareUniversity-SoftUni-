@@ -1,0 +1,4 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Resources\03. Unit Tests_Unit_Tests_Skeleton\.vs\BankSafe\v16\lut\0\i\BankSafe.Tests\Debug\netcoreapp3.1\BankSafe.Tests.csprojAssemblyReference.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Resources\03. Unit Tests_Unit_Tests_Skeleton\.vs\BankSafe\v16\lut\0\i\BankSafe.Tests\Debug\netcoreapp3.1\BankSafe.Tests.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Resources\03. Unit Tests_Unit_Tests_Skeleton\.vs\BankSafe\v16\lut\0\i\BankSafe.Tests\Debug\netcoreapp3.1\BankSafe.Tests.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Resources\03. Unit Tests_Unit_Tests_Skeleton\.vs\BankSafe\v16\lut\0\i\BankSafe.Tests\Debug\netcoreapp3.1\BankSafe.Tests.dll

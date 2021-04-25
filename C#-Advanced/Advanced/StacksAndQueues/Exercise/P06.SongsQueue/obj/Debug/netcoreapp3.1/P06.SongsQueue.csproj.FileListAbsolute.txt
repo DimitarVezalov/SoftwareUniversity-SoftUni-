@@ -1,0 +1,12 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\bin\Debug\netcoreapp3.1\P06.SongsQueue.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\bin\Debug\netcoreapp3.1\P06.SongsQueue.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\bin\Debug\netcoreapp3.1\P06.SongsQueue.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\bin\Debug\netcoreapp3.1\P06.SongsQueue.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\bin\Debug\netcoreapp3.1\P06.SongsQueue.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\bin\Debug\netcoreapp3.1\P06.SongsQueue.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\obj\Debug\netcoreapp3.1\P06.SongsQueue.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\obj\Debug\netcoreapp3.1\P06.SongsQueue.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\obj\Debug\netcoreapp3.1\P06.SongsQueue.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\obj\Debug\netcoreapp3.1\P06.SongsQueue.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\obj\Debug\netcoreapp3.1\P06.SongsQueue.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P06.SongsQueue\obj\Debug\netcoreapp3.1\P06.SongsQueue.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csprojAssemblyReference.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\EasterRaces\bin\Debug\netcoreapp3.1\output.txt

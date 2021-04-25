@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Encapsulation\Lab\Encapsulation_lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache

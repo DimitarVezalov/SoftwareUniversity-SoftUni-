@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\bin\Debug\netcoreapp3.1\P04.AddVAT.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\bin\Debug\netcoreapp3.1\P04.AddVAT.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\bin\Debug\netcoreapp3.1\P04.AddVAT.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\bin\Debug\netcoreapp3.1\P04.AddVAT.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\bin\Debug\netcoreapp3.1\P04.AddVAT.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\bin\Debug\netcoreapp3.1\P04.AddVAT.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\obj\Debug\netcoreapp3.1\P04.AddVAT.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\obj\Debug\netcoreapp3.1\P04.AddVAT.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\obj\Debug\netcoreapp3.1\P04.AddVAT.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\obj\Debug\netcoreapp3.1\P04.AddVAT.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\obj\Debug\netcoreapp3.1\P04.AddVAT.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\obj\Debug\netcoreapp3.1\P04.AddVAT.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P04.AddVAT\obj\Debug\netcoreapp3.1\P04.AddVAT.genruntimeconfig.cache

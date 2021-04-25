@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{8A923D2C-F5B7-4089-8F60-EF0D02B247DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{7719E287-58B3-4246-9798-8932907A6DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{A7188ECA-83B9-4677-AB3E-E72C46BFCBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A923D2C-F5B7-4089-8F60-EF0D02B247DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A923D2C-F5B7-4089-8F60-EF0D02B247DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A923D2C-F5B7-4089-8F60-EF0D02B247DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A923D2C-F5B7-4089-8F60-EF0D02B247DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7719E287-58B3-4246-9798-8932907A6DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7719E287-58B3-4246-9798-8932907A6DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7719E287-58B3-4246-9798-8932907A6DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7719E287-58B3-4246-9798-8932907A6DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7188ECA-83B9-4677-AB3E-E72C46BFCBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7188ECA-83B9-4677-AB3E-E72C46BFCBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7188ECA-83B9-4677-AB3E-E72C46BFCBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7188ECA-83B9-4677-AB3E-E72C46BFCBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF7681E-0372-4F35-BC58-7209253B9CCA}
+	EndGlobalSection
+EndGlobal

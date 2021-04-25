@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\bin\Debug\netcoreapp3.1\P04.WildFarm.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P04.WildFarm\obj\Debug\netcoreapp3.1\P04.WildFarm.genruntimeconfig.cache

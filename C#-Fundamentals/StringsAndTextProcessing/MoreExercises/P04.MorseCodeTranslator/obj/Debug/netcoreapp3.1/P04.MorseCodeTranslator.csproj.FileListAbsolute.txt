@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\bin\Debug\netcoreapp3.1\P04.MorseCodeTranslator.exe
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\bin\Debug\netcoreapp3.1\P04.MorseCodeTranslator.deps.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\bin\Debug\netcoreapp3.1\P04.MorseCodeTranslator.runtimeconfig.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\bin\Debug\netcoreapp3.1\P04.MorseCodeTranslator.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\bin\Debug\netcoreapp3.1\P04.MorseCodeTranslator.dll
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\bin\Debug\netcoreapp3.1\P04.MorseCodeTranslator.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\obj\Debug\netcoreapp3.1\P04.MorseCodeTranslator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\obj\Debug\netcoreapp3.1\P04.MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\obj\Debug\netcoreapp3.1\P04.MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\obj\Debug\netcoreapp3.1\P04.MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\obj\Debug\netcoreapp3.1\P04.MorseCodeTranslator.dll
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\obj\Debug\netcoreapp3.1\P04.MorseCodeTranslator.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P04.MorseCodeTranslator\obj\Debug\netcoreapp3.1\P04.MorseCodeTranslator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.genruntimeconfig.cache

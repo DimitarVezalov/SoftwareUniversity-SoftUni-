@@ -1,0 +1,34 @@
+.dll
+--Microsoft.VisualStudio.Help.Shell.Immutable.14.0.dll - 24.547kb
+--Microsoft.ApplicationInsights.UniversalTelemetryChannel.dll - 28.352kb
+--Microsoft.Threading.Tasks.Extensions.dll - 30.781kb
+--Microsoft.Threading.Tasks.dll - 36.234kb
+--Microsoft.VisualStudio.Utilities.Internal.dll - 38.773kb
+--Microsoft.VisualStudio.RemoteControl.dll - 54.266kb
+--Microsoft.ApplicationInsights.PersistenceChannel.dll - 54.820kb
+--Microsoft.VisualStudio.Help.Shell.UI.Internal.dll - 67.758kb
+--Microsoft.VisualStudio.OLE.Interop.dll - 133.656kb
+--Microsoft.VisualStudio.Help.Utilities.dll - 137.250kb
+--Microsoft.Diagnostics.Tracing.EventSource.dll - 154.266kb
+--Microsoft.ApplicationInsights.dll - 165.242kb
+--Microsoft.VisualStudio.Help.Runtime.dll - 184.250kb
+--Microsoft.VisualStudio.Help.Shell.14.0.dll - 426.047kb
+--Microsoft.VisualStudio.Help.Shell.ViewManager.dll - 501.750kb
+--Newtonsoft.Json.dll - 514.000kb
+--Microsoft.VisualStudio.Help.dll - 613.250kb
+--Microsoft.VisualStudio.Telemetry.dll - 776.047kb
+--Microsoft.mshtml.dll - 7844.312kb
+.config
+--HlpCtntMgr.exe.config - 0.375kb
+--HlpViewer.exe.config - 2.613kb
+.exe
+--HlpCtntMgr.exe - 155.773kb
+--HlpViewer.exe - 598.766kb
+.cab
+--MSHelp3_1_en-us.cab - 64.226kb
+.dat
+--wordBreakerRules.dat - 0.406kb
+.mshc
+--Branding_en-US.mshc - 42.360kb
+.xml
+--DefaultLayout.xml - 4.709kb

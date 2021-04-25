@@ -1,0 +1,12 @@
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+D:\SOFTUNI\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\ExamPreparation\Exam-13-Dec-2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache

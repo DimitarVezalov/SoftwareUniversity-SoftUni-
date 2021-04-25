@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\bin\Debug\netcoreapp3.1\P01.Lootbox.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\bin\Debug\netcoreapp3.1\P01.Lootbox.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\bin\Debug\netcoreapp3.1\P01.Lootbox.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\bin\Debug\netcoreapp3.1\P01.Lootbox.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\bin\Debug\netcoreapp3.1\P01.Lootbox.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\bin\Debug\netcoreapp3.1\P01.Lootbox.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\obj\Debug\netcoreapp3.1\P01.Lootbox.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\obj\Debug\netcoreapp3.1\P01.Lootbox.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\obj\Debug\netcoreapp3.1\P01.Lootbox.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\obj\Debug\netcoreapp3.1\P01.Lootbox.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\obj\Debug\netcoreapp3.1\P01.Lootbox.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\obj\Debug\netcoreapp3.1\P01.Lootbox.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P01.Lootbox\obj\Debug\netcoreapp3.1\P01.Lootbox.genruntimeconfig.cache

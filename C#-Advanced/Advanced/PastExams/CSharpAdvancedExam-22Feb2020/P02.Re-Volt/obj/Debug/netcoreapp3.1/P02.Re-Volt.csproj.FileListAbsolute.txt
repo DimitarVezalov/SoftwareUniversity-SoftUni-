@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.genruntimeconfig.cache

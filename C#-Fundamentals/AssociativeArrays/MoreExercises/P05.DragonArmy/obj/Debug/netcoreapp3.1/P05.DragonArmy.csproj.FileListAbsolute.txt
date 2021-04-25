@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\bin\Debug\netcoreapp3.1\P05.DragonArmy.exe
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\bin\Debug\netcoreapp3.1\P05.DragonArmy.deps.json
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\bin\Debug\netcoreapp3.1\P05.DragonArmy.runtimeconfig.json
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\bin\Debug\netcoreapp3.1\P05.DragonArmy.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\bin\Debug\netcoreapp3.1\P05.DragonArmy.dll
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\bin\Debug\netcoreapp3.1\P05.DragonArmy.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\obj\Debug\netcoreapp3.1\P05.DragonArmy.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\obj\Debug\netcoreapp3.1\P05.DragonArmy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\obj\Debug\netcoreapp3.1\P05.DragonArmy.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\obj\Debug\netcoreapp3.1\P05.DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\obj\Debug\netcoreapp3.1\P05.DragonArmy.dll
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\obj\Debug\netcoreapp3.1\P05.DragonArmy.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\AssociativeArrays_MoreExercises\P05.DragonArmy\obj\Debug\netcoreapp3.1\P05.DragonArmy.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P03.ExtractFile/1.0.0": {
+        "runtime": {
+          "P03.ExtractFile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P03.ExtractFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

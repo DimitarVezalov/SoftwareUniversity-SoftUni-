@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\bin\Debug\netcoreapp3.1\P08.CompanyUsers.exe
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\bin\Debug\netcoreapp3.1\P08.CompanyUsers.deps.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\bin\Debug\netcoreapp3.1\P08.CompanyUsers.runtimeconfig.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\bin\Debug\netcoreapp3.1\P08.CompanyUsers.runtimeconfig.dev.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\bin\Debug\netcoreapp3.1\P08.CompanyUsers.dll
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\bin\Debug\netcoreapp3.1\P08.CompanyUsers.pdb
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\obj\Debug\netcoreapp3.1\P08.CompanyUsers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\obj\Debug\netcoreapp3.1\P08.CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\obj\Debug\netcoreapp3.1\P08.CompanyUsers.AssemblyInfo.cs
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\obj\Debug\netcoreapp3.1\P08.CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\obj\Debug\netcoreapp3.1\P08.CompanyUsers.dll
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\obj\Debug\netcoreapp3.1\P08.CompanyUsers.pdb
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P08.CompanyUsers\obj\Debug\netcoreapp3.1\P08.CompanyUsers.genruntimeconfig.cache

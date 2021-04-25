@@ -1,0 +1,13 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-12-December-2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache

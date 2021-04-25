@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\bin\Debug\netcoreapp3.1\P02.Race.exe
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\bin\Debug\netcoreapp3.1\P02.Race.deps.json
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\bin\Debug\netcoreapp3.1\P02.Race.runtimeconfig.json
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\bin\Debug\netcoreapp3.1\P02.Race.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\bin\Debug\netcoreapp3.1\P02.Race.dll
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\bin\Debug\netcoreapp3.1\P02.Race.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\obj\Debug\netcoreapp3.1\P02.Race.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\obj\Debug\netcoreapp3.1\P02.Race.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\obj\Debug\netcoreapp3.1\P02.Race.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\obj\Debug\netcoreapp3.1\P02.Race.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\obj\Debug\netcoreapp3.1\P02.Race.dll
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\obj\Debug\netcoreapp3.1\P02.Race.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\RegularExpressions_Exercises\P02.Race\obj\Debug\netcoreapp3.1\P02.Race.genruntimeconfig.cache

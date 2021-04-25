@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\bin\Debug\netcoreapp3.1\P02.SumNumbers.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\bin\Debug\netcoreapp3.1\P02.SumNumbers.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\bin\Debug\netcoreapp3.1\P02.SumNumbers.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\bin\Debug\netcoreapp3.1\P02.SumNumbers.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\bin\Debug\netcoreapp3.1\P02.SumNumbers.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\bin\Debug\netcoreapp3.1\P02.SumNumbers.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\obj\Debug\netcoreapp3.1\P02.SumNumbers.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\obj\Debug\netcoreapp3.1\P02.SumNumbers.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\obj\Debug\netcoreapp3.1\P02.SumNumbers.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\obj\Debug\netcoreapp3.1\P02.SumNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\obj\Debug\netcoreapp3.1\P02.SumNumbers.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\obj\Debug\netcoreapp3.1\P02.SumNumbers.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P02.SumNumbers\obj\Debug\netcoreapp3.1\P02.SumNumbers.genruntimeconfig.cache

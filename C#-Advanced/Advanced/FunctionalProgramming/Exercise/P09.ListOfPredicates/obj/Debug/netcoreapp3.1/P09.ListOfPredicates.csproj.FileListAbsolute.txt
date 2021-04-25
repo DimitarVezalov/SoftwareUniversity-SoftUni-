@@ -1,0 +1,12 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\bin\Debug\netcoreapp3.1\P09.ListOfPredicates.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\bin\Debug\netcoreapp3.1\P09.ListOfPredicates.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\bin\Debug\netcoreapp3.1\P09.ListOfPredicates.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\bin\Debug\netcoreapp3.1\P09.ListOfPredicates.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\bin\Debug\netcoreapp3.1\P09.ListOfPredicates.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\bin\Debug\netcoreapp3.1\P09.ListOfPredicates.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\obj\Debug\netcoreapp3.1\P09.ListOfPredicates.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\obj\Debug\netcoreapp3.1\P09.ListOfPredicates.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\obj\Debug\netcoreapp3.1\P09.ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\obj\Debug\netcoreapp3.1\P09.ListOfPredicates.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\obj\Debug\netcoreapp3.1\P09.ListOfPredicates.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P09.ListOfPredicates\obj\Debug\netcoreapp3.1\P09.ListOfPredicates.genruntimeconfig.cache

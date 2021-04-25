@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\bin\Debug\netcoreapp3.1\AdAstra.exe
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\bin\Debug\netcoreapp3.1\AdAstra.deps.json
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\bin\Debug\netcoreapp3.1\AdAstra.runtimeconfig.json
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\bin\Debug\netcoreapp3.1\AdAstra.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\bin\Debug\netcoreapp3.1\AdAstra.dll
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\bin\Debug\netcoreapp3.1\AdAstra.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\obj\Debug\netcoreapp3.1\AdAstra.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\obj\Debug\netcoreapp3.1\AdAstra.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\obj\Debug\netcoreapp3.1\AdAstra.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\obj\Debug\netcoreapp3.1\AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\obj\Debug\netcoreapp3.1\AdAstra.dll
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\obj\Debug\netcoreapp3.1\AdAstra.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\AdAstra\obj\Debug\netcoreapp3.1\AdAstra.genruntimeconfig.cache

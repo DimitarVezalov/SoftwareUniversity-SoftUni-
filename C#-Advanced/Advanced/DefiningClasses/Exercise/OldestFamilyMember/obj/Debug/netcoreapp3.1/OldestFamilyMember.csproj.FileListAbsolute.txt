@@ -1,0 +1,17 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.csproj.CopyComplete
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.genruntimeconfig.cache

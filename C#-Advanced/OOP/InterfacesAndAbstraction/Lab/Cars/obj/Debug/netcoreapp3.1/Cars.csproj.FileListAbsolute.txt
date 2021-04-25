@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\InterfacesAndAbstraction_Lab\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

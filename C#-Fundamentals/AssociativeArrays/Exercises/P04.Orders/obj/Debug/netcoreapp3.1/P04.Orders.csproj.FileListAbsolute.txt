@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\bin\Debug\netcoreapp3.1\P04.Orders.exe
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\bin\Debug\netcoreapp3.1\P04.Orders.deps.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\bin\Debug\netcoreapp3.1\P04.Orders.runtimeconfig.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\bin\Debug\netcoreapp3.1\P04.Orders.runtimeconfig.dev.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\bin\Debug\netcoreapp3.1\P04.Orders.dll
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\bin\Debug\netcoreapp3.1\P04.Orders.pdb
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\obj\Debug\netcoreapp3.1\P04.Orders.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\obj\Debug\netcoreapp3.1\P04.Orders.AssemblyInfo.cs
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\obj\Debug\netcoreapp3.1\P04.Orders.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\obj\Debug\netcoreapp3.1\P04.Orders.dll
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\obj\Debug\netcoreapp3.1\P04.Orders.pdb
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P04.Orders\obj\Debug\netcoreapp3.1\P04.Orders.genruntimeconfig.cache

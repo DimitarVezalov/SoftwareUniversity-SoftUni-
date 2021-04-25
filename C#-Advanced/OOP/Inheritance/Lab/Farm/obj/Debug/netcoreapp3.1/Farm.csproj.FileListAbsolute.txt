@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\obj\Debug\netcoreapp3.1\Farm.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\obj\Debug\netcoreapp3.1\Farm.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\bin\Debug\netcoreapp3.1\Farm.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\bin\Debug\netcoreapp3.1\Farm.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\bin\Debug\netcoreapp3.1\Farm.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\bin\Debug\netcoreapp3.1\Farm.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\obj\Debug\netcoreapp3.1\Farm.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\obj\Debug\netcoreapp3.1\Farm.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Inheritance_Lab\Farm\obj\Debug\netcoreapp3.1\Farm.genruntimeconfig.cache

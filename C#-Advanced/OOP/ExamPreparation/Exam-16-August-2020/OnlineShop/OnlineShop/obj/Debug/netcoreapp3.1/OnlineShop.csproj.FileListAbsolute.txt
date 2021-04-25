@@ -1,0 +1,13 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\New folder\OnlineShop\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\bin\Debug\netcoreapp3.1\TheRace.exe
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P03.TheRace\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache

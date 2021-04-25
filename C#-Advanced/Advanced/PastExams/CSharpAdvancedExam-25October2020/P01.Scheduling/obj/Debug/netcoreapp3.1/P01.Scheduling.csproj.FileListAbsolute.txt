@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\bin\Debug\netcoreapp3.1\P01.Scheduling.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\bin\Debug\netcoreapp3.1\P01.Scheduling.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\bin\Debug\netcoreapp3.1\P01.Scheduling.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\bin\Debug\netcoreapp3.1\P01.Scheduling.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\bin\Debug\netcoreapp3.1\P01.Scheduling.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\bin\Debug\netcoreapp3.1\P01.Scheduling.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\obj\Debug\netcoreapp3.1\P01.Scheduling.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\obj\Debug\netcoreapp3.1\P01.Scheduling.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\obj\Debug\netcoreapp3.1\P01.Scheduling.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\obj\Debug\netcoreapp3.1\P01.Scheduling.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\obj\Debug\netcoreapp3.1\P01.Scheduling.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\obj\Debug\netcoreapp3.1\P01.Scheduling.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P01.Scheduling\obj\Debug\netcoreapp3.1\P01.Scheduling.genruntimeconfig.cache

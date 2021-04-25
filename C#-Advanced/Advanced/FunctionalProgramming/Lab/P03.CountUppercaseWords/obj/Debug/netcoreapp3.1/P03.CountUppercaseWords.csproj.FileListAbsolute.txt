@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\bin\Debug\netcoreapp3.1\P03.CountUppercaseWords.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\bin\Debug\netcoreapp3.1\P03.CountUppercaseWords.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\bin\Debug\netcoreapp3.1\P03.CountUppercaseWords.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\bin\Debug\netcoreapp3.1\P03.CountUppercaseWords.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\bin\Debug\netcoreapp3.1\P03.CountUppercaseWords.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\bin\Debug\netcoreapp3.1\P03.CountUppercaseWords.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\obj\Debug\netcoreapp3.1\P03.CountUppercaseWords.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\obj\Debug\netcoreapp3.1\P03.CountUppercaseWords.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\obj\Debug\netcoreapp3.1\P03.CountUppercaseWords.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\obj\Debug\netcoreapp3.1\P03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\obj\Debug\netcoreapp3.1\P03.CountUppercaseWords.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\obj\Debug\netcoreapp3.1\P03.CountUppercaseWords.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P03.CountUppercaseWords\obj\Debug\netcoreapp3.1\P03.CountUppercaseWords.genruntimeconfig.cache

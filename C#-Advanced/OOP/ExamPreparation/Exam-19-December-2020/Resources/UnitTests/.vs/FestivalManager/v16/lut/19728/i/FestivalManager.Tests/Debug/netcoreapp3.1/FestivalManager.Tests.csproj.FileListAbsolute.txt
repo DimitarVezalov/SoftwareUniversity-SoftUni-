@@ -1,0 +1,3 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\Resources\03. Unit Tests_Skeleton\.vs\FestivalManager\v16\lut\0\i\FestivalManager.Tests\Debug\netcoreapp3.1\FestivalManager.Tests.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\Resources\03. Unit Tests_Skeleton\.vs\FestivalManager\v16\lut\0\i\FestivalManager.Tests\Debug\netcoreapp3.1\FestivalManager.Tests.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-19-December-2020\Resources\03. Unit Tests_Skeleton\.vs\FestivalManager\v16\lut\0\i\FestivalManager.Tests\Debug\netcoreapp3.1\FestivalManager.Tests.dll

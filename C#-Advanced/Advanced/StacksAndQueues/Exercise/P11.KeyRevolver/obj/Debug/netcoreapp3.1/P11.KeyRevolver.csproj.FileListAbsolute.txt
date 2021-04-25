@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\obj\Debug\netcoreapp3.1\P11.KeyRevolver.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\obj\Debug\netcoreapp3.1\P11.KeyRevolver.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\obj\Debug\netcoreapp3.1\P11.KeyRevolver.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\obj\Debug\netcoreapp3.1\P11.KeyRevolver.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\bin\Debug\netcoreapp3.1\P11.KeyRevolver.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\bin\Debug\netcoreapp3.1\P11.KeyRevolver.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\bin\Debug\netcoreapp3.1\P11.KeyRevolver.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\bin\Debug\netcoreapp3.1\P11.KeyRevolver.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\bin\Debug\netcoreapp3.1\P11.KeyRevolver.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\bin\Debug\netcoreapp3.1\P11.KeyRevolver.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\obj\Debug\netcoreapp3.1\P11.KeyRevolver.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\obj\Debug\netcoreapp3.1\P11.KeyRevolver.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P11.KeyRevolver\obj\Debug\netcoreapp3.1\P11.KeyRevolver.genruntimeconfig.cache

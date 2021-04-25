@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P03.VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache

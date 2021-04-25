@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.genruntimeconfig.cache

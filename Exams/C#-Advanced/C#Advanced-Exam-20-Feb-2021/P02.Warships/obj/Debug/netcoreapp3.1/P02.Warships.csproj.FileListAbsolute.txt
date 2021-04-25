@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.exe
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.deps.json
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.runtimeconfig.json
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.dll
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.pdb
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.dll
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.pdb
+D:\SOFTUNI-COURSES\EXAMS\SoftUniExams\C#-Advanced\CSharpAdvanced-PracticalExam-20-02-2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.genruntimeconfig.cache

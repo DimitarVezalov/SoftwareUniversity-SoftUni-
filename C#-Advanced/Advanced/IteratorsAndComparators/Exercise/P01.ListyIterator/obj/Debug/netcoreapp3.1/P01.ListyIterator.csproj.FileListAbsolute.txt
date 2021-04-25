@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\bin\Debug\netcoreapp3.1\P01.ListyIterator.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P01.ListyIterator\obj\Debug\netcoreapp3.1\P01.ListyIterator.genruntimeconfig.cache

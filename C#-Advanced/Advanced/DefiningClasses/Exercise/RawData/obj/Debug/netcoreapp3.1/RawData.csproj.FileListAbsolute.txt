@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses_Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.genruntimeconfig.cache

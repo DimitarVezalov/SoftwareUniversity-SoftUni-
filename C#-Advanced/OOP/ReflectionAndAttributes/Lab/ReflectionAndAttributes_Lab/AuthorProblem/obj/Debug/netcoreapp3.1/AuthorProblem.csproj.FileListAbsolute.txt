@@ -1,0 +1,13 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csprojAssemblyReference.cache

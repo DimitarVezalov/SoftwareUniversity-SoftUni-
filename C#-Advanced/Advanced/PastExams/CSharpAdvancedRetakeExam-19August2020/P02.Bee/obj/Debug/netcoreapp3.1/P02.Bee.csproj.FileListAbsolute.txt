@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.genruntimeconfig.cache

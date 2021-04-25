@@ -1,0 +1,13 @@
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\Computers.deps.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\Computers.exe
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\nunit.engine.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\Computers.Tests.deps.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\Computers.Tests.runtimeconfig.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\Computers.Tests.runtimeconfig.dev.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.1\Computers.Tests.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\i\Computers.Tests\Debug\netcoreapp3.1\Computers.Tests.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\i\Computers.Tests\Debug\netcoreapp3.1\Computers.Tests.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\i\Computers.Tests\Debug\netcoreapp3.1\Computers.Tests.csproj.CopyComplete
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\i\Computers.Tests\Debug\netcoreapp3.1\Computers.Tests.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\Exam-16-August-2020\UnitTests\Computers-Skeleton\.vs\Computers\v16\lut\0\i\Computers.Tests\Debug\netcoreapp3.1\Computers.Tests.genruntimeconfig.cache

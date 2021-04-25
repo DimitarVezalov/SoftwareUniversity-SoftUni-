@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache

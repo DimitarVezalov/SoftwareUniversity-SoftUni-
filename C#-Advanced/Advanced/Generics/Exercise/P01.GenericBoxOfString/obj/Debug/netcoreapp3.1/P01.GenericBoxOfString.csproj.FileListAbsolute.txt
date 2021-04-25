@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\bin\Debug\netcoreapp3.1\P01.GenericBoxOfString.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\bin\Debug\netcoreapp3.1\P01.GenericBoxOfString.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\bin\Debug\netcoreapp3.1\P01.GenericBoxOfString.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\bin\Debug\netcoreapp3.1\P01.GenericBoxOfString.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\bin\Debug\netcoreapp3.1\P01.GenericBoxOfString.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\bin\Debug\netcoreapp3.1\P01.GenericBoxOfString.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\obj\Debug\netcoreapp3.1\P01.GenericBoxOfString.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\obj\Debug\netcoreapp3.1\P01.GenericBoxOfString.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\obj\Debug\netcoreapp3.1\P01.GenericBoxOfString.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\obj\Debug\netcoreapp3.1\P01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\obj\Debug\netcoreapp3.1\P01.GenericBoxOfString.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\obj\Debug\netcoreapp3.1\P01.GenericBoxOfString.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P01.GenericBoxOfString\obj\Debug\netcoreapp3.1\P01.GenericBoxOfString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\bin\Debug\netcoreapp3.1\P12.CupsAndBottles.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\bin\Debug\netcoreapp3.1\P12.CupsAndBottles.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\bin\Debug\netcoreapp3.1\P12.CupsAndBottles.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\bin\Debug\netcoreapp3.1\P12.CupsAndBottles.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\bin\Debug\netcoreapp3.1\P12.CupsAndBottles.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\bin\Debug\netcoreapp3.1\P12.CupsAndBottles.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\obj\Debug\netcoreapp3.1\P12.CupsAndBottles.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\obj\Debug\netcoreapp3.1\P12.CupsAndBottles.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\obj\Debug\netcoreapp3.1\P12.CupsAndBottles.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\obj\Debug\netcoreapp3.1\P12.CupsAndBottles.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\obj\Debug\netcoreapp3.1\P12.CupsAndBottles.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\obj\Debug\netcoreapp3.1\P12.CupsAndBottles.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P12.CupsAndBottles\obj\Debug\netcoreapp3.1\P12.CupsAndBottles.genruntimeconfig.cache

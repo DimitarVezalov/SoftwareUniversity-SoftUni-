@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\bin\Debug\netcoreapp3.1\P02.Garden.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\bin\Debug\netcoreapp3.1\P02.Garden.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\bin\Debug\netcoreapp3.1\P02.Garden.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\bin\Debug\netcoreapp3.1\P02.Garden.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\bin\Debug\netcoreapp3.1\P02.Garden.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\bin\Debug\netcoreapp3.1\P02.Garden.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\obj\Debug\netcoreapp3.1\P02.Garden.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\obj\Debug\netcoreapp3.1\P02.Garden.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\obj\Debug\netcoreapp3.1\P02.Garden.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\obj\Debug\netcoreapp3.1\P02.Garden.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\obj\Debug\netcoreapp3.1\P02.Garden.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\obj\Debug\netcoreapp3.1\P02.Garden.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-25October2020\P02.Garden\obj\Debug\netcoreapp3.1\P02.Garden.genruntimeconfig.cache

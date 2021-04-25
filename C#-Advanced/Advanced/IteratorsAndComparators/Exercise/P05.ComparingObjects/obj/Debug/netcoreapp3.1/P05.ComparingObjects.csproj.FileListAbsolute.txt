@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\bin\Debug\netcoreapp3.1\P05.ComparingObjects.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P05.ComparingObjects\obj\Debug\netcoreapp3.1\P05.ComparingObjects.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\bin\Debug\netcoreapp3.1\P06.Supermarket.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\bin\Debug\netcoreapp3.1\P06.Supermarket.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\bin\Debug\netcoreapp3.1\P06.Supermarket.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\bin\Debug\netcoreapp3.1\P06.Supermarket.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\bin\Debug\netcoreapp3.1\P06.Supermarket.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\bin\Debug\netcoreapp3.1\P06.Supermarket.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\obj\Debug\netcoreapp3.1\P06.Supermarket.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\obj\Debug\netcoreapp3.1\P06.Supermarket.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\obj\Debug\netcoreapp3.1\P06.Supermarket.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\obj\Debug\netcoreapp3.1\P06.Supermarket.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\obj\Debug\netcoreapp3.1\P06.Supermarket.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P06.Supermarket\obj\Debug\netcoreapp3.1\P06.Supermarket.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.exe
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.deps.json
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.runtimeconfig.json
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.dll
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.pdb
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.dll
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.pdb
+C:\Users\User\source\repos\CSharpFundamentals_AssociativeArrays_Lab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.genruntimeconfig.cache

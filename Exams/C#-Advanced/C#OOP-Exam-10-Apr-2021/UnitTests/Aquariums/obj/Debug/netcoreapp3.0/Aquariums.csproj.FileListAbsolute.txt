@@ -1,0 +1,13 @@
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

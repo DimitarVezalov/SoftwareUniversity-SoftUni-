@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\bin\Debug\netcoreapp3.1\P05.FilterByAge.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\bin\Debug\netcoreapp3.1\P05.FilterByAge.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\bin\Debug\netcoreapp3.1\P05.FilterByAge.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\bin\Debug\netcoreapp3.1\P05.FilterByAge.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\bin\Debug\netcoreapp3.1\P05.FilterByAge.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\bin\Debug\netcoreapp3.1\P05.FilterByAge.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\obj\Debug\netcoreapp3.1\P05.FilterByAge.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\obj\Debug\netcoreapp3.1\P05.FilterByAge.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\obj\Debug\netcoreapp3.1\P05.FilterByAge.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\obj\Debug\netcoreapp3.1\P05.FilterByAge.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\obj\Debug\netcoreapp3.1\P05.FilterByAge.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\obj\Debug\netcoreapp3.1\P05.FilterByAge.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P05.FilterByAge\obj\Debug\netcoreapp3.1\P05.FilterByAge.genruntimeconfig.cache

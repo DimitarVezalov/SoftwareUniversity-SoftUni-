@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\bin\Debug\netcoreapp3.1\P07.TruckTour.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\bin\Debug\netcoreapp3.1\P07.TruckTour.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\bin\Debug\netcoreapp3.1\P07.TruckTour.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\bin\Debug\netcoreapp3.1\P07.TruckTour.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\bin\Debug\netcoreapp3.1\P07.TruckTour.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\bin\Debug\netcoreapp3.1\P07.TruckTour.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\obj\Debug\netcoreapp3.1\P07.TruckTour.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\obj\Debug\netcoreapp3.1\P07.TruckTour.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\obj\Debug\netcoreapp3.1\P07.TruckTour.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\obj\Debug\netcoreapp3.1\P07.TruckTour.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\obj\Debug\netcoreapp3.1\P07.TruckTour.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\obj\Debug\netcoreapp3.1\P07.TruckTour.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Stacks and Queues\Exercise\CSharpAdvancedStacksAndQueues_Exercises\P07.TruckTour\obj\Debug\netcoreapp3.1\P07.TruckTour.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\bin\Debug\netcoreapp3.1\P03.SimpleCalculator.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\bin\Debug\netcoreapp3.1\P03.SimpleCalculator.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\bin\Debug\netcoreapp3.1\P03.SimpleCalculator.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\bin\Debug\netcoreapp3.1\P03.SimpleCalculator.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\bin\Debug\netcoreapp3.1\P03.SimpleCalculator.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\bin\Debug\netcoreapp3.1\P03.SimpleCalculator.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\obj\Debug\netcoreapp3.1\P03.SimpleCalculator.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\obj\Debug\netcoreapp3.1\P03.SimpleCalculator.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\obj\Debug\netcoreapp3.1\P03.SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\obj\Debug\netcoreapp3.1\P03.SimpleCalculator.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\obj\Debug\netcoreapp3.1\P03.SimpleCalculator.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P03.SimpleCalculator\obj\Debug\netcoreapp3.1\P03.SimpleCalculator.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\Resources\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\Resources\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\Resources\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\Resources\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\Resources\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\Resources\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\Resources\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\Resources\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ExamPreparation\RetakeExam-22-August-2020\Resources\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

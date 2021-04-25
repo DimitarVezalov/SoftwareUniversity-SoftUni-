@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\P05.PrintEvenNumbers.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\P05.PrintEvenNumbers.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\P05.PrintEvenNumbers.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\P05.PrintEvenNumbers.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\P05.PrintEvenNumbers.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\P05.PrintEvenNumbers.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\P05.PrintEvenNumbers.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\P05.PrintEvenNumbers.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\P05.PrintEvenNumbers.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\P05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\P05.PrintEvenNumbers.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\P05.PrintEvenNumbers.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\P05.PrintEvenNumbers.genruntimeconfig.cache

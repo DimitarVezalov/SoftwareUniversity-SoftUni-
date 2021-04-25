@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\bin\Debug\netcoreapp3.1\P03.ExtractFile.exe
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\bin\Debug\netcoreapp3.1\P03.ExtractFile.deps.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\bin\Debug\netcoreapp3.1\P03.ExtractFile.runtimeconfig.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\bin\Debug\netcoreapp3.1\P03.ExtractFile.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\bin\Debug\netcoreapp3.1\P03.ExtractFile.dll
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\bin\Debug\netcoreapp3.1\P03.ExtractFile.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\obj\Debug\netcoreapp3.1\P03.ExtractFile.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\obj\Debug\netcoreapp3.1\P03.ExtractFile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\obj\Debug\netcoreapp3.1\P03.ExtractFile.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\obj\Debug\netcoreapp3.1\P03.ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\obj\Debug\netcoreapp3.1\P03.ExtractFile.dll
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\obj\Debug\netcoreapp3.1\P03.ExtractFile.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P03.ExtractFile\obj\Debug\netcoreapp3.1\P03.ExtractFile.genruntimeconfig.cache

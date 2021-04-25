@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\bin\Debug\netcoreapp3.1\P02.RepeatStrings.exe
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\bin\Debug\netcoreapp3.1\P02.RepeatStrings.deps.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\bin\Debug\netcoreapp3.1\P02.RepeatStrings.runtimeconfig.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\bin\Debug\netcoreapp3.1\P02.RepeatStrings.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\bin\Debug\netcoreapp3.1\P02.RepeatStrings.dll
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\bin\Debug\netcoreapp3.1\P02.RepeatStrings.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\obj\Debug\netcoreapp3.1\P02.RepeatStrings.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\obj\Debug\netcoreapp3.1\P02.RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\obj\Debug\netcoreapp3.1\P02.RepeatStrings.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\obj\Debug\netcoreapp3.1\P02.RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\obj\Debug\netcoreapp3.1\P02.RepeatStrings.dll
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\obj\Debug\netcoreapp3.1\P02.RepeatStrings.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Lab\P02.RepeatStrings\obj\Debug\netcoreapp3.1\P02.RepeatStrings.genruntimeconfig.cache

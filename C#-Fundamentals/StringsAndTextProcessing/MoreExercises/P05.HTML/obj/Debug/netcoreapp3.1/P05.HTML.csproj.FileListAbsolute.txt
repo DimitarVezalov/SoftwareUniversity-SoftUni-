@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\bin\Debug\netcoreapp3.1\P05.HTML.exe
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\bin\Debug\netcoreapp3.1\P05.HTML.deps.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\bin\Debug\netcoreapp3.1\P05.HTML.runtimeconfig.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\bin\Debug\netcoreapp3.1\P05.HTML.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\bin\Debug\netcoreapp3.1\P05.HTML.dll
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\bin\Debug\netcoreapp3.1\P05.HTML.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\obj\Debug\netcoreapp3.1\P05.HTML.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\obj\Debug\netcoreapp3.1\P05.HTML.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\obj\Debug\netcoreapp3.1\P05.HTML.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\obj\Debug\netcoreapp3.1\P05.HTML.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\obj\Debug\netcoreapp3.1\P05.HTML.dll
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\obj\Debug\netcoreapp3.1\P05.HTML.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_MoreExercises\P05.HTML\obj\Debug\netcoreapp3.1\P05.HTML.genruntimeconfig.cache

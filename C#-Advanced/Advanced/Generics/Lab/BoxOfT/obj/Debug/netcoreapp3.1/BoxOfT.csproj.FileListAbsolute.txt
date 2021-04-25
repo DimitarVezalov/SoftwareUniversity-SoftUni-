@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

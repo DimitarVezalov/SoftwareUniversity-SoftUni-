@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\bin\Debug\netcoreapp3.1\P02.Collection.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\bin\Debug\netcoreapp3.1\P02.Collection.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\bin\Debug\netcoreapp3.1\P02.Collection.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\bin\Debug\netcoreapp3.1\P02.Collection.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\bin\Debug\netcoreapp3.1\P02.Collection.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\bin\Debug\netcoreapp3.1\P02.Collection.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\obj\Debug\netcoreapp3.1\P02.Collection.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\obj\Debug\netcoreapp3.1\P02.Collection.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\obj\Debug\netcoreapp3.1\P02.Collection.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\obj\Debug\netcoreapp3.1\P02.Collection.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\obj\Debug\netcoreapp3.1\P02.Collection.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\obj\Debug\netcoreapp3.1\P02.Collection.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P02.Collection\obj\Debug\netcoreapp3.1\P02.Collection.genruntimeconfig.cache

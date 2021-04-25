@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\bin\Debug\netcoreapp3.1\P01.SortEvenNumbers.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\bin\Debug\netcoreapp3.1\P01.SortEvenNumbers.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\bin\Debug\netcoreapp3.1\P01.SortEvenNumbers.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\bin\Debug\netcoreapp3.1\P01.SortEvenNumbers.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\bin\Debug\netcoreapp3.1\P01.SortEvenNumbers.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\bin\Debug\netcoreapp3.1\P01.SortEvenNumbers.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\obj\Debug\netcoreapp3.1\P01.SortEvenNumbers.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\obj\Debug\netcoreapp3.1\P01.SortEvenNumbers.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\obj\Debug\netcoreapp3.1\P01.SortEvenNumbers.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\obj\Debug\netcoreapp3.1\P01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\obj\Debug\netcoreapp3.1\P01.SortEvenNumbers.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\obj\Debug\netcoreapp3.1\P01.SortEvenNumbers.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Lab\P01.SortEvenNumbers\obj\Debug\netcoreapp3.1\P01.SortEvenNumbers.genruntimeconfig.cache

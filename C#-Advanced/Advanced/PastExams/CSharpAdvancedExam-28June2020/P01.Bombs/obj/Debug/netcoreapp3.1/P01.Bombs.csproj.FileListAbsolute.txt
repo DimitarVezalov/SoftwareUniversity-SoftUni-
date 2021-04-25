@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\bin\Debug\netcoreapp3.1\P01.Bombs.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P01.Bombs\obj\Debug\netcoreapp3.1\P01.Bombs.genruntimeconfig.cache

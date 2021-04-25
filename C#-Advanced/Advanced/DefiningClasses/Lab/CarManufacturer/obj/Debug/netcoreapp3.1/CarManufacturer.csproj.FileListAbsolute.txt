@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\DefiningClasses\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.genruntimeconfig.cache

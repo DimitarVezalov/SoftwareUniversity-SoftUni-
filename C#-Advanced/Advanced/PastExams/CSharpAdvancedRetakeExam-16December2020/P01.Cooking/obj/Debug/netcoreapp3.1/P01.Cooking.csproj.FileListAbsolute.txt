@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\bin\Debug\netcoreapp3.1\P01.Cooking.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\bin\Debug\netcoreapp3.1\P01.Cooking.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\bin\Debug\netcoreapp3.1\P01.Cooking.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\bin\Debug\netcoreapp3.1\P01.Cooking.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\bin\Debug\netcoreapp3.1\P01.Cooking.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\bin\Debug\netcoreapp3.1\P01.Cooking.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\obj\Debug\netcoreapp3.1\P01.Cooking.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\obj\Debug\netcoreapp3.1\P01.Cooking.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\obj\Debug\netcoreapp3.1\P01.Cooking.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\obj\Debug\netcoreapp3.1\P01.Cooking.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\obj\Debug\netcoreapp3.1\P01.Cooking.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\obj\Debug\netcoreapp3.1\P01.Cooking.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedRetakeExam-16December2020\P01.Cooking\obj\Debug\netcoreapp3.1\P01.Cooking.genruntimeconfig.cache

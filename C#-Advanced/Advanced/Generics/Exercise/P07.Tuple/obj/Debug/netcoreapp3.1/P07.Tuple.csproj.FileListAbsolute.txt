@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\bin\Debug\netcoreapp3.1\P07.Tuple.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\bin\Debug\netcoreapp3.1\P07.Tuple.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\bin\Debug\netcoreapp3.1\P07.Tuple.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\bin\Debug\netcoreapp3.1\P07.Tuple.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\bin\Debug\netcoreapp3.1\P07.Tuple.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\bin\Debug\netcoreapp3.1\P07.Tuple.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\obj\Debug\netcoreapp3.1\P07.Tuple.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\obj\Debug\netcoreapp3.1\P07.Tuple.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\obj\Debug\netcoreapp3.1\P07.Tuple.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\obj\Debug\netcoreapp3.1\P07.Tuple.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\obj\Debug\netcoreapp3.1\P07.Tuple.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\obj\Debug\netcoreapp3.1\P07.Tuple.genruntimeconfig.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P07.Tuple\obj\Debug\netcoreapp3.1\P07.Tuple.csprojAssemblyReference.cache

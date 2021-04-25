@@ -1,0 +1,11 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Lab\.vs\Lab\v16\lut\0\b\Skeleton\Debug\netcoreapp3.1\Skeleton.exe
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Lab\.vs\Lab\v16\lut\0\b\Skeleton\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Lab\.vs\Lab\v16\lut\0\b\Skeleton\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Lab\.vs\Lab\v16\lut\0\b\Skeleton\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Lab\.vs\Lab\v16\lut\0\b\Skeleton\Debug\netcoreapp3.1\Skeleton.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Lab\.vs\Lab\v16\lut\0\i\Skeleton\Debug\netcoreapp3.1\Skeleton.csprojAssemblyReference.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Lab\.vs\Lab\v16\lut\0\i\Skeleton\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Lab\.vs\Lab\v16\lut\0\i\Skeleton\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Lab\.vs\Lab\v16\lut\0\i\Skeleton\Debug\netcoreapp3.1\Skeleton.csproj.CopyComplete
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Lab\.vs\Lab\v16\lut\0\i\Skeleton\Debug\netcoreapp3.1\Skeleton.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Lab\.vs\Lab\v16\lut\0\i\Skeleton\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

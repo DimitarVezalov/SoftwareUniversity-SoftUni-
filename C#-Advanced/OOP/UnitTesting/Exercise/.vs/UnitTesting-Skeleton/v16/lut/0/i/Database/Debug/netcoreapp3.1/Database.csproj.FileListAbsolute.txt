@@ -1,0 +1,7 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\Database\Debug\netcoreapp3.1\Database.deps.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\Database\Debug\netcoreapp3.1\Database.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\Database\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\Database\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\Database\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\Database\Debug\netcoreapp3.1\Database.csproj.CopyComplete
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\Database\Debug\netcoreapp3.1\Database.dll

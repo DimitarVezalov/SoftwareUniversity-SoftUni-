@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\P05.MultiplyBigNumber.exe
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\P05.MultiplyBigNumber.deps.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\P05.MultiplyBigNumber.runtimeconfig.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\P05.MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\P05.MultiplyBigNumber.dll
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\P05.MultiplyBigNumber.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\P05.MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\P05.MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\P05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\P05.MultiplyBigNumber.dll
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\P05.MultiplyBigNumber.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\P05.MultiplyBigNumber.genruntimeconfig.cache
+C:\Users\User\Desktop\SoftUniFundamentals\StringsAndTextProcessing_Exercises\P05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\P05.MultiplyBigNumber.csprojAssemblyReference.cache

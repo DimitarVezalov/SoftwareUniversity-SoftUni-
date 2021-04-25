@@ -1,0 +1,11 @@
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.exe
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.dll
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.csproj.CopyComplete
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.dll
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

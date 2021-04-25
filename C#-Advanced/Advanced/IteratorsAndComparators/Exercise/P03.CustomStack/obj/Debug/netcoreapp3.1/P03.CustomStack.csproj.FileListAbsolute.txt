@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\bin\Debug\netcoreapp3.1\P03.CustomStack.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\bin\Debug\netcoreapp3.1\P03.CustomStack.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\bin\Debug\netcoreapp3.1\P03.CustomStack.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\bin\Debug\netcoreapp3.1\P03.CustomStack.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\bin\Debug\netcoreapp3.1\P03.CustomStack.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\bin\Debug\netcoreapp3.1\P03.CustomStack.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\obj\Debug\netcoreapp3.1\P03.CustomStack.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\obj\Debug\netcoreapp3.1\P03.CustomStack.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\obj\Debug\netcoreapp3.1\P03.CustomStack.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\obj\Debug\netcoreapp3.1\P03.CustomStack.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\obj\Debug\netcoreapp3.1\P03.CustomStack.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\obj\Debug\netcoreapp3.1\P03.CustomStack.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\IteratorsAndComparators\IteratorsAndComparators_Exercise\P03.CustomStack\obj\Debug\netcoreapp3.1\P03.CustomStack.genruntimeconfig.cache

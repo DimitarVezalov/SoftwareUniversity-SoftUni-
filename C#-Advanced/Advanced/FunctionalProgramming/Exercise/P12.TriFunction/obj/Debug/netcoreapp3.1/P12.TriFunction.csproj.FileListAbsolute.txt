@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\bin\Debug\netcoreapp3.1\P12.TriFunction.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P12.TriFunction\obj\Debug\netcoreapp3.1\P12.TriFunction.genruntimeconfig.cache

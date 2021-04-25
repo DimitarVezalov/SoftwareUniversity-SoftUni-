@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.exe
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.deps.json
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.runtimeconfig.json
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.dll
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.dll
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.pdb
+C:\Users\User\Desktop\SoftUniFundamentals\FinalExamPreparation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.genruntimeconfig.cache

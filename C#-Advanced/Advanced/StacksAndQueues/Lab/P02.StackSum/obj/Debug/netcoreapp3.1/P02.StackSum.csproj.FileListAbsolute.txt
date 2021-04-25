@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\bin\Debug\netcoreapp3.1\P02.StackSum.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\bin\Debug\netcoreapp3.1\P02.StackSum.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\bin\Debug\netcoreapp3.1\P02.StackSum.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\bin\Debug\netcoreapp3.1\P02.StackSum.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\bin\Debug\netcoreapp3.1\P02.StackSum.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\bin\Debug\netcoreapp3.1\P02.StackSum.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\obj\Debug\netcoreapp3.1\P02.StackSum.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\obj\Debug\netcoreapp3.1\P02.StackSum.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\obj\Debug\netcoreapp3.1\P02.StackSum.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\obj\Debug\netcoreapp3.1\P02.StackSum.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\obj\Debug\netcoreapp3.1\P02.StackSum.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\obj\Debug\netcoreapp3.1\P02.StackSum.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\Advanced\Stacks and Queues\Lab\CSharpAdvnced_StacksAndQueues_Lab\P02.StackSum\obj\Debug\netcoreapp3.1\P02.StackSum.genruntimeconfig.cache

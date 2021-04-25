@@ -1,0 +1,2 @@
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.AssemblyInfoInputs.cache
+D:\SOFTUNI\EXAMS\SoftUniExams\C#-Advanced\C#OOP-Exam-10-Apr-2021\Resources\03. Unit Tests_Skeleton\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.AssemblyInfo.cs

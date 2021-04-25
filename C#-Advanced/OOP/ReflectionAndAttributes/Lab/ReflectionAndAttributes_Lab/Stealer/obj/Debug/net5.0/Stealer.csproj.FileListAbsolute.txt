@@ -1,0 +1,16 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\bin\Debug\net5.0\Stealer.exe
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\bin\Debug\net5.0\Stealer.deps.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\bin\Debug\net5.0\Stealer.runtimeconfig.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\bin\Debug\net5.0\Stealer.runtimeconfig.dev.json
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\bin\Debug\net5.0\Stealer.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\bin\Debug\net5.0\ref\Stealer.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\bin\Debug\net5.0\Stealer.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\obj\Debug\net5.0\Stealer.csprojAssemblyReference.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\obj\Debug\net5.0\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\obj\Debug\net5.0\Stealer.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\obj\Debug\net5.0\Stealer.AssemblyInfo.cs
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\obj\Debug\net5.0\Stealer.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\obj\Debug\net5.0\Stealer.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\obj\Debug\net5.0\ref\Stealer.dll
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\obj\Debug\net5.0\Stealer.pdb
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\ReflectionAndAttributes\Lab\ReflectionAndAttributes_Lab\Stealer\obj\Debug\net5.0\Stealer.genruntimeconfig.cache

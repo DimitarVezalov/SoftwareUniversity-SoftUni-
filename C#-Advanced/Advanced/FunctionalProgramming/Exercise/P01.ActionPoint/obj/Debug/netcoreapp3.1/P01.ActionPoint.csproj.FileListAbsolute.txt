@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\bin\Debug\netcoreapp3.1\P01.ActionPoint.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\bin\Debug\netcoreapp3.1\P01.ActionPoint.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\bin\Debug\netcoreapp3.1\P01.ActionPoint.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\bin\Debug\netcoreapp3.1\P01.ActionPoint.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\bin\Debug\netcoreapp3.1\P01.ActionPoint.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\bin\Debug\netcoreapp3.1\P01.ActionPoint.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\obj\Debug\netcoreapp3.1\P01.ActionPoint.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\obj\Debug\netcoreapp3.1\P01.ActionPoint.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\obj\Debug\netcoreapp3.1\P01.ActionPoint.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\obj\Debug\netcoreapp3.1\P01.ActionPoint.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\obj\Debug\netcoreapp3.1\P01.ActionPoint.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\obj\Debug\netcoreapp3.1\P01.ActionPoint.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P01.ActionPoint\obj\Debug\netcoreapp3.1\P01.ActionPoint.genruntimeconfig.cache

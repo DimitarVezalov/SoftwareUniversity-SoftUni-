@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\bin\Debug\netcoreapp3.1\P05.AppliedArithmetics.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\bin\Debug\netcoreapp3.1\P05.AppliedArithmetics.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\bin\Debug\netcoreapp3.1\P05.AppliedArithmetics.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\bin\Debug\netcoreapp3.1\P05.AppliedArithmetics.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\bin\Debug\netcoreapp3.1\P05.AppliedArithmetics.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\bin\Debug\netcoreapp3.1\P05.AppliedArithmetics.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\obj\Debug\netcoreapp3.1\P05.AppliedArithmetics.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\obj\Debug\netcoreapp3.1\P05.AppliedArithmetics.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\obj\Debug\netcoreapp3.1\P05.AppliedArithmetics.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\obj\Debug\netcoreapp3.1\P05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\obj\Debug\netcoreapp3.1\P05.AppliedArithmetics.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\obj\Debug\netcoreapp3.1\P05.AppliedArithmetics.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P05.AppliedArithmetics\obj\Debug\netcoreapp3.1\P05.AppliedArithmetics.genruntimeconfig.cache

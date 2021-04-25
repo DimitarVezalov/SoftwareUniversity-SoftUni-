@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\bin\Debug\netcoreapp3.1\P10.PredicateParty!.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\bin\Debug\netcoreapp3.1\P10.PredicateParty!.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\bin\Debug\netcoreapp3.1\P10.PredicateParty!.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\bin\Debug\netcoreapp3.1\P10.PredicateParty!.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\bin\Debug\netcoreapp3.1\P10.PredicateParty!.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\bin\Debug\netcoreapp3.1\P10.PredicateParty!.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\obj\Debug\netcoreapp3.1\P10.PredicateParty!.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\obj\Debug\netcoreapp3.1\P10.PredicateParty!.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\obj\Debug\netcoreapp3.1\P10.PredicateParty!.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\obj\Debug\netcoreapp3.1\P10.PredicateParty!.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\obj\Debug\netcoreapp3.1\P10.PredicateParty!.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\obj\Debug\netcoreapp3.1\P10.PredicateParty!.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P10.PredicateParty!\obj\Debug\netcoreapp3.1\P10.PredicateParty!.genruntimeconfig.cache

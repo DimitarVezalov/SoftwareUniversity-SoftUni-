@@ -1,0 +1,2 @@
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.AssemblyInfoInputs.cache
+D:\SOFTUNI\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.AssemblyInfo.cs

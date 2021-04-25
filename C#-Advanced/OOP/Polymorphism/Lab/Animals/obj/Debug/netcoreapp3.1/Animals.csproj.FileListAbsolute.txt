@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Lab\Polymorphism_Lab\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

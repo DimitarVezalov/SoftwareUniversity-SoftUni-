@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\bin\Debug\netcoreapp3.1\P02.AMinerTask.exe
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\bin\Debug\netcoreapp3.1\P02.AMinerTask.deps.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\bin\Debug\netcoreapp3.1\P02.AMinerTask.runtimeconfig.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\bin\Debug\netcoreapp3.1\P02.AMinerTask.runtimeconfig.dev.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\bin\Debug\netcoreapp3.1\P02.AMinerTask.dll
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\bin\Debug\netcoreapp3.1\P02.AMinerTask.pdb
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\obj\Debug\netcoreapp3.1\P02.AMinerTask.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\obj\Debug\netcoreapp3.1\P02.AMinerTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\obj\Debug\netcoreapp3.1\P02.AMinerTask.AssemblyInfo.cs
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\obj\Debug\netcoreapp3.1\P02.AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\obj\Debug\netcoreapp3.1\P02.AMinerTask.dll
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\obj\Debug\netcoreapp3.1\P02.AMinerTask.pdb
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P02.AMinerTask\obj\Debug\netcoreapp3.1\P02.AMinerTask.genruntimeconfig.cache

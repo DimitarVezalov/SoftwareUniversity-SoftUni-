@@ -1,0 +1,12 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\bin\Debug\netcoreapp3.1\P06.ReverseAndExclude.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\bin\Debug\netcoreapp3.1\P06.ReverseAndExclude.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\bin\Debug\netcoreapp3.1\P06.ReverseAndExclude.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\bin\Debug\netcoreapp3.1\P06.ReverseAndExclude.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\bin\Debug\netcoreapp3.1\P06.ReverseAndExclude.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\bin\Debug\netcoreapp3.1\P06.ReverseAndExclude.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\obj\Debug\netcoreapp3.1\P06.ReverseAndExclude.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\obj\Debug\netcoreapp3.1\P06.ReverseAndExclude.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\obj\Debug\netcoreapp3.1\P06.ReverseAndExclude.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\obj\Debug\netcoreapp3.1\P06.ReverseAndExclude.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\obj\Debug\netcoreapp3.1\P06.ReverseAndExclude.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P06.ReverseAndExclude\obj\Debug\netcoreapp3.1\P06.ReverseAndExclude.genruntimeconfig.cache

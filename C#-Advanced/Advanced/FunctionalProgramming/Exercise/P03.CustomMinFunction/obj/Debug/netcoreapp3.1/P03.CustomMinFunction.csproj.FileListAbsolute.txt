@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\bin\Debug\netcoreapp3.1\P03.CustomMinFunction.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\bin\Debug\netcoreapp3.1\P03.CustomMinFunction.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\bin\Debug\netcoreapp3.1\P03.CustomMinFunction.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\bin\Debug\netcoreapp3.1\P03.CustomMinFunction.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\bin\Debug\netcoreapp3.1\P03.CustomMinFunction.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\bin\Debug\netcoreapp3.1\P03.CustomMinFunction.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\obj\Debug\netcoreapp3.1\P03.CustomMinFunction.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\obj\Debug\netcoreapp3.1\P03.CustomMinFunction.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\obj\Debug\netcoreapp3.1\P03.CustomMinFunction.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\obj\Debug\netcoreapp3.1\P03.CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\obj\Debug\netcoreapp3.1\P03.CustomMinFunction.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\obj\Debug\netcoreapp3.1\P03.CustomMinFunction.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\FunctionalProgramming\FunctionalProgramming_Exercise\P03.CustomMinFunction\obj\Debug\netcoreapp3.1\P03.CustomMinFunction.genruntimeconfig.cache

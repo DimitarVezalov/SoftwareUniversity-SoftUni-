@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\bin\Debug\netcoreapp3.1\SugarCubes.exe
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\bin\Debug\netcoreapp3.1\SugarCubes.deps.json
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\bin\Debug\netcoreapp3.1\SugarCubes.runtimeconfig.json
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\bin\Debug\netcoreapp3.1\SugarCubes.runtimeconfig.dev.json
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\bin\Debug\netcoreapp3.1\SugarCubes.dll
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\bin\Debug\netcoreapp3.1\SugarCubes.pdb
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\obj\Debug\netcoreapp3.1\SugarCubes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\obj\Debug\netcoreapp3.1\SugarCubes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\obj\Debug\netcoreapp3.1\SugarCubes.AssemblyInfo.cs
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\obj\Debug\netcoreapp3.1\SugarCubes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\obj\Debug\netcoreapp3.1\SugarCubes.dll
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\obj\Debug\netcoreapp3.1\SugarCubes.pdb
+C:\Users\User\source\repos\CookingMasterclass\SugarCubes\obj\Debug\netcoreapp3.1\SugarCubes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\P05.GenericCountMethodStrings.genruntimeconfig.cache

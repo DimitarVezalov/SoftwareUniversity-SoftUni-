@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\bin\Debug\netcoreapp3.1\P02.Snake.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\bin\Debug\netcoreapp3.1\P02.Snake.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\bin\Debug\netcoreapp3.1\P02.Snake.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\bin\Debug\netcoreapp3.1\P02.Snake.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\bin\Debug\netcoreapp3.1\P02.Snake.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\bin\Debug\netcoreapp3.1\P02.Snake.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\obj\Debug\netcoreapp3.1\P02.Snake.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\obj\Debug\netcoreapp3.1\P02.Snake.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\obj\Debug\netcoreapp3.1\P02.Snake.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\obj\Debug\netcoreapp3.1\P02.Snake.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\obj\Debug\netcoreapp3.1\P02.Snake.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\obj\Debug\netcoreapp3.1\P02.Snake.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P02.Snake\obj\Debug\netcoreapp3.1\P02.Snake.genruntimeconfig.cache

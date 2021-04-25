@@ -1,0 +1,12 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\bin\Debug\netcoreapp3.1\P08.Threeuple.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\bin\Debug\netcoreapp3.1\P08.Threeuple.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\bin\Debug\netcoreapp3.1\P08.Threeuple.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\bin\Debug\netcoreapp3.1\P08.Threeuple.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\bin\Debug\netcoreapp3.1\P08.Threeuple.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\bin\Debug\netcoreapp3.1\P08.Threeuple.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\obj\Debug\netcoreapp3.1\P08.Threeuple.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\obj\Debug\netcoreapp3.1\P08.Threeuple.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\obj\Debug\netcoreapp3.1\P08.Threeuple.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\obj\Debug\netcoreapp3.1\P08.Threeuple.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\obj\Debug\netcoreapp3.1\P08.Threeuple.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P08.Threeuple\obj\Debug\netcoreapp3.1\P08.Threeuple.genruntimeconfig.cache

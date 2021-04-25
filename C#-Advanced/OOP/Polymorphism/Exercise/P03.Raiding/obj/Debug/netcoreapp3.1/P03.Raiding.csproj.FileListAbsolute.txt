@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\obj\Debug\netcoreapp3.1\P03.Raiding.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\obj\Debug\netcoreapp3.1\P03.Raiding.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\obj\Debug\netcoreapp3.1\P03.Raiding.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\obj\Debug\netcoreapp3.1\P03.Raiding.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\bin\Debug\netcoreapp3.1\P03.Raiding.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\bin\Debug\netcoreapp3.1\P03.Raiding.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\bin\Debug\netcoreapp3.1\P03.Raiding.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\bin\Debug\netcoreapp3.1\P03.Raiding.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\bin\Debug\netcoreapp3.1\P03.Raiding.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\bin\Debug\netcoreapp3.1\P03.Raiding.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\obj\Debug\netcoreapp3.1\P03.Raiding.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\obj\Debug\netcoreapp3.1\P03.Raiding.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\OOP\Polymorphism\Exercise\Polymorphism_Exercise\P03.Raiding\obj\Debug\netcoreapp3.1\P03.Raiding.genruntimeconfig.cache

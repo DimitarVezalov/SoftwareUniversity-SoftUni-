@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\bin\Debug\netcoreapp3.1\P02.ParkingFeud.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\bin\Debug\netcoreapp3.1\P02.ParkingFeud.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\bin\Debug\netcoreapp3.1\P02.ParkingFeud.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\bin\Debug\netcoreapp3.1\P02.ParkingFeud.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\bin\Debug\netcoreapp3.1\P02.ParkingFeud.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\bin\Debug\netcoreapp3.1\P02.ParkingFeud.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\obj\Debug\netcoreapp3.1\P02.ParkingFeud.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\obj\Debug\netcoreapp3.1\P02.ParkingFeud.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\obj\Debug\netcoreapp3.1\P02.ParkingFeud.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\obj\Debug\netcoreapp3.1\P02.ParkingFeud.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\obj\Debug\netcoreapp3.1\P02.ParkingFeud.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\obj\Debug\netcoreapp3.1\P02.ParkingFeud.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExamRetake-24April2018\P02.ParkingFeud\obj\Debug\netcoreapp3.1\P02.ParkingFeud.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.genruntimeconfig.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\Generics\Generics_Exercise\P04.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\P04.GenericSwapMethodIntegers.csprojAssemblyReference.cache

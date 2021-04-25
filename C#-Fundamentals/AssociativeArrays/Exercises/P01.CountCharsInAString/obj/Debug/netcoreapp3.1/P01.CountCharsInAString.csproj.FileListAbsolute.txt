@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\bin\Debug\netcoreapp3.1\P01.CountCharsInAString.exe
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\bin\Debug\netcoreapp3.1\P01.CountCharsInAString.deps.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\bin\Debug\netcoreapp3.1\P01.CountCharsInAString.runtimeconfig.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\bin\Debug\netcoreapp3.1\P01.CountCharsInAString.runtimeconfig.dev.json
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\bin\Debug\netcoreapp3.1\P01.CountCharsInAString.dll
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\bin\Debug\netcoreapp3.1\P01.CountCharsInAString.pdb
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\obj\Debug\netcoreapp3.1\P01.CountCharsInAString.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\obj\Debug\netcoreapp3.1\P01.CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\obj\Debug\netcoreapp3.1\P01.CountCharsInAString.AssemblyInfo.cs
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\obj\Debug\netcoreapp3.1\P01.CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\obj\Debug\netcoreapp3.1\P01.CountCharsInAString.dll
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\obj\Debug\netcoreapp3.1\P01.CountCharsInAString.pdb
+C:\Users\User\Desktop\Documents\AssociativeArrays_Exercises\P01.CountCharsInAString\obj\Debug\netcoreapp3.1\P01.CountCharsInAString.genruntimeconfig.cache

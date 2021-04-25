@@ -1,0 +1,13 @@
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\bin\Debug\netcoreapp3.1\Parking.exe
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\bin\Debug\netcoreapp3.1\Parking.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\obj\Debug\netcoreapp3.1\Parking.dll
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+D:\SOFTUNI-COURSES\C#AdvancedModule\SoftUniCSharpAdvanced\Advanced\PastExams\CSharpAdvancedExam-28June2020\P03.Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P05.NetherRealms/1.0.0": {
+        "runtime": {
+          "P05.NetherRealms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P05.NetherRealms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
