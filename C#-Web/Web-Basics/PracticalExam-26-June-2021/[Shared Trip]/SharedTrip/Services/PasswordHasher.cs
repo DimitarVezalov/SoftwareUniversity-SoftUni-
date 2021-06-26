@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Security.Cryptography;
-using System.Text;
-
-namespace SharedTrip.Services
+﻿namespace SharedTrip.Services
 {
+    using System.Text;
+    using System.Security.Cryptography;
+
     public class PasswordHasher : IPasswordHasher
     {
         public string HashPassword(string password)

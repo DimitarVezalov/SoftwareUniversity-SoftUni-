@@ -1,14 +1,11 @@
-﻿using MyWebServer.Controllers;
-using MyWebServer.Http;
-using SharedTrip.Services;
-using SharedTrip.ViewModels.Users;
-
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SharedTrip.Controllers
+﻿namespace SharedTrip.Controllers
 {
+    using MyWebServer.Controllers;
+    using MyWebServer.Http;
+    using SharedTrip.Services;
+    using SharedTrip.ViewModels.Users;
+
+
     public class UsersController : Controller
     {
         private readonly IUsersService usersService;

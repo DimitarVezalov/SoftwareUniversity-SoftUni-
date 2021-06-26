@@ -1,12 +1,9 @@
-﻿using SharedTrip.ViewModels.Trips;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SharedTrip.Services
+﻿namespace SharedTrip.Services
 {
+    using System.Collections.Generic;
+
+    using SharedTrip.ViewModels.Trips;
+
     public interface ITripsService
     {
         void Create(AddTripInputModel model);

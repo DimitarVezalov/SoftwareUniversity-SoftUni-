@@ -1,15 +1,10 @@
-﻿using MyWebServer.Controllers;
-using MyWebServer.Http;
-using SharedTrip.Services;
-using SharedTrip.ViewModels.Trips;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SharedTrip.Controllers
+﻿namespace SharedTrip.Controllers
 {
+    using MyWebServer.Controllers;
+    using MyWebServer.Http;
+    using SharedTrip.Services;
+    using SharedTrip.ViewModels.Trips;
+
     public class TripsController : Controller
     {
         private readonly ITripsService tripsService;

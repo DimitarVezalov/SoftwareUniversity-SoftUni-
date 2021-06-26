@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SharedTrip.ViewModels.Users
+﻿namespace SharedTrip.ViewModels.Users
 {
     public class LoginUserInputModel
     {

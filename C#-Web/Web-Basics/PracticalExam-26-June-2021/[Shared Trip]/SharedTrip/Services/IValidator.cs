@@ -1,11 +1,8 @@
-﻿using SharedTrip.ViewModels.Trips;
-using SharedTrip.ViewModels.Users;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SharedTrip.Services
+﻿namespace SharedTrip.Services
 {
+    using SharedTrip.ViewModels.Trips;
+    using SharedTrip.ViewModels.Users;
+
     public interface IValidator
     {
         bool ValidateUserRegister(RegisterUserInputModel model);

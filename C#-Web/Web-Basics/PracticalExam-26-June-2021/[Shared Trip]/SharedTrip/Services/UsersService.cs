@@ -1,11 +1,8 @@
-﻿using SharedTrip.Data.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace SharedTrip.Services
+﻿namespace SharedTrip.Services
 {
+    using System.Linq;
+    using SharedTrip.Data.Models;
+
     public class UsersService : IUsersService
     {
         private readonly ApplicationDbContext db;

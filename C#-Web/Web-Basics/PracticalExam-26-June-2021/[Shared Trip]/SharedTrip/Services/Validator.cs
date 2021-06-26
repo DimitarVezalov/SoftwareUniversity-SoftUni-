@@ -1,15 +1,14 @@
 ﻿using SharedTrip.Data;
-using SharedTrip.ViewModels.Trips;
-using SharedTrip.ViewModels.Users;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace SharedTrip.Services
 {
+    using System;
+    using System.Linq;
+
+    using SharedTrip.ViewModels.Trips;
+    using SharedTrip.ViewModels.Users;
+
     using static DataConstants;
-    using static ExceptionMessages;
 
     public class Validator : IValidator
     {
@@ -41,8 +40,6 @@ namespace SharedTrip.Services
                 return false;
             }
 
-            
-
             return true;
         }
 
@@ -60,7 +57,6 @@ namespace SharedTrip.Services
 
             return true;
         }
-
 
         public bool ValidateUserRegister(RegisterUserInputModel model)
         {

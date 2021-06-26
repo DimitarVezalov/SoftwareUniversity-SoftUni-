@@ -1,9 +1,7 @@
-﻿using MyWebServer.Controllers;
-using MyWebServer.Http;
-
-namespace SharedTrip.App.Controllers
+﻿namespace SharedTrip.App.Controllers
 {
-
+    using MyWebServer.Controllers;
+    using MyWebServer.Http;
 
     public class HomeController : Controller
     { 
